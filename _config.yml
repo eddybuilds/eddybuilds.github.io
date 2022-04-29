@@ -10,7 +10,7 @@ twitter_username: eddybuilds
 github_username:  eddybuilds
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
