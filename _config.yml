@@ -10,7 +10,7 @@ twitter_username: eddybuilds
 github_username:  eddybuilds
 
 # Build settings
-theme: jekyll-theme-architect
+destination: docs/
 plugins:
   - jekyll-feed
 
